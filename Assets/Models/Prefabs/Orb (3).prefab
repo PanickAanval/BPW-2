@@ -210,7 +210,10 @@ VisualEffect:
     m_Vector3f:
       m_Array: []
     m_Vector4f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 1.0926825, y: 1.6625506, z: 1.4518985, w: 0}
+        m_Name: Insidecolor
+        m_Overridden: 1
     m_Uint:
       m_Array: []
     m_Int:
